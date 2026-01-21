@@ -3,7 +3,7 @@ Personal portfolio website showcasing my projects, skills, achievements, experie
 # 👩‍💻 Anjali Yadav — Developer Portfolio
 
 A modern, fast, and thoughtfully engineered developer portfolio designed to showcase my work, technical abilities, and problem-solving mindset.  
-This isn’t just a personal website — it’s a product built with clean code, scalability, performance, and user experience in mind.
+This isn’t just a personal website — it’s a product built with clean code, scalability, performance, and user experience in mind. The site is live at https://stark-light.github.io/Anjali-Portfolio/
 
 ---
 
